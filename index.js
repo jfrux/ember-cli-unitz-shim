@@ -52,8 +52,8 @@ module.exports = {
     var options = this.unitzOptions;
 
     app.import({
-      development: vendor + '/unitz/build/unitz.js',
-      production: vendor + '/unitz/build/unitz.min.js'
+      development: vendor + '/unitz/unitz.js',
+      production: vendor + '/unitz/unitz.min.js'
     }, { prepend: true });
   },
 

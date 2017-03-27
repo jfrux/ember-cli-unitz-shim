@@ -30,7 +30,7 @@
     "ember-cli-babel": "^5.0.0",
     "exists-sync": "0.0.4",
     "lodash.defaults": "^4.1.0",
-    "unitz": "^3.10.1"
+    "unitz": "^0.4.1"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
