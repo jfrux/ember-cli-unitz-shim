@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-unitz-shim",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Brings unitz into your Ember applications",
   "keywords": [
     "ember-addon",
@@ -30,7 +30,7 @@
     "ember-cli-babel": "^5.0.0",
     "exists-sync": "0.0.4",
     "lodash.defaults": "^4.1.0",
-    "unitz": "^0.4.1"
+    "unitz": "^0.5.0"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
