@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-unitz-shim",
   "dependencies": {
-    "unitz": "^0.4.1"
+    "unitz": "^0.6.0"
   }
 }
